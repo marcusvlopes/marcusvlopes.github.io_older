@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Test Account"
+title                    : "Marcus Vinicius Lopes"
 title_separator          : "-"
 name                     : &name "Marcus Vinicius Lopes"
 description              : &description "Research scientist at Test University"
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "getorg-testacct"
+  github           : "marcusvlopes"
   google_plus      :
   keybase          :
   instagram        : 
