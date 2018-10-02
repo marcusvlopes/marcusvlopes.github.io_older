@@ -82,9 +82,9 @@ author:
   bio              : "Research scientist at Test University, expert in all things test and account related"
   location         : "São Luís-MA, Brazil"
   employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : 
   email            : 
-  uri              : 
+  uri              :              
   bitbucket        :
   codepen          :
   dribbble         :
@@ -97,7 +97,7 @@ author:
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  orcid            : "https://orcid.org/0000-0003-3195-0570"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
