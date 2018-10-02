@@ -1,12 +1,12 @@
 ---
-title: "Test Accounts: An Introduction"
+title: " ICA feature extraction for spike sorting of single-channel records"
 collection: publications
 permalink: /publications/2009-10-01-test-accts-intro
 venue: "Testing Studies"
 excerpt: 'This paper is about testing.'
 date: 2009-10-01
 paperurl: http://academicpages.github.io/files/paper1.pdf
-citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
+citation: 'LOPES, Marcus Vinicius; AGUIAR, ENIO; SANTANA, Ewaldo; SANTANA, Eder; BARROS, Allan Kardec. ICA feature extraction for spike sorting of single-channel records. In: 2013 ISSNIP Biosignals and Biorobotics Conference: Biosignals and Robotics for Better and Safer Living (BRC), Rio de Janerio, 2013'
 ---
 
 ## Abstract
