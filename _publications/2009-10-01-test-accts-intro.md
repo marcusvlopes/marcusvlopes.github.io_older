@@ -6,7 +6,7 @@ venue: "Testing Studies"
 excerpt: 'This paper is about testing.'
 date: 2009-10-01
 paperurl: http://academicpages.github.io/files/paper1.pdf
-citation: 'LOPES, Marcus Vinicius; AGUIAR, ENIO; SANTANA, Ewaldo; SANTANA, Eder; BARROS, Allan Kardec. ICA feature extraction for spike sorting of single-channel records. In: 2013 ISSNIP Biosignals and Biorobotics Conference: Biosignals and Robotics for Better and Safer Living (BRC), Rio de Janerio, 2013'
+citation: 'LOPES, Marcus Vinicius; AGUIAR, ENIO; SANTANA, Ewaldo; SANTANA, Eder; BARROS, Allan Kardec. ICA feature extraction for spike sorting of single-channel records. In: <i>2013 ISSNIP Biosignals and Biorobotics Conference: Biosignals and Robotics for Better and Safer Living (BRC)</i>, Rio de Janerio, 2013'
 ---
 
 ## Abstract
