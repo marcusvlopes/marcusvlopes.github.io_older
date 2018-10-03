@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Testing Science, Testing University, 2012
-* M.S. in Testonomy, Testing University, 2014
-* Ph.D in Testology, Testing University, 2017 (expected)
+* B.S. in Electrical engineering, Universidade Federal do Maranhão, 2010
+* Specialization in Electrical engineering/Instrumentation, Universidade Federal do Maranhão/Promimp, 2013
+* M.S. in Electrical engineering, Universidade Federal do Maranhão, 2013
+* Doctor of Electrical engineering, Universidade Federal do Maranhão, 2017
 
 Work experience
 ======
