@@ -18,12 +18,12 @@ Education
 
 Work experience
 ======
-* 2017: Professor Substituto
+* 2017-Today: Professor Substituto
   * Universidade Federal do Maranhão
   * Engenharia da Computação
   
 
-* 2012: Professor Substituto
+* 2012-2013: Professor Substituto
   * Universidade Estadual do Maranhão
   * Engenharia da Computação
   
