@@ -10,4 +10,4 @@ citation: 'SILVA, Cristiane da; BARROS, Allan Kardec ; SANTANA, Ewaldo ; ARAÚJO
 ---
 
 ## Abstract
-You can put the full text of the paper in this markdown file. The journal, date, citation, and paperurl will populate automatically based on the YAML variables, and then the text below (this text) will be displayed.
+In adaptive filtering, several algorithms are developed in the quest for greater convergence speed, mostly relying on second order statistics. Here we modify the Recursive Least Square (RLS) equations by using as performance surface a weighted sum of even error power. As a result, the equations turn out to be simple, elegant, while yielding faster convergence and preserving the computational cost when compared with the existing RLS algorithm.
