@@ -1,0 +1,13 @@
+---
+title: "Detecting masses in dense breast using independent component analysis"
+collection: publications
+permalink: /publications/2017-01-0
+venue: "Artificial Intelligence in Medicine"
+excerpt: ''
+date: 2017-01-01
+paperurl: http://dx.doi.org/10.1016/j.artmed.2017.07.003
+citation: 'DE OLIVEIRA SILVA, Luis Claudio; BARROS, Allan Kardec ; LOPES, Marcus Vinicius . <b>Detecting masses in dense breast using independent component analysis</b>. <i>Artificial Intelligence in Medicine</i>, v. 80, p. 29-38, 2017.'
+---
+
+## Abstract
+Breast cancer is the second type of cancer that most affects women in the world, losing only for non-melanoma skin cancer. Breast density can hinder the location of masses, especially in early stages. In this work, the use of independent component analysis for detecting lesions in dense breasts is proposed. Several works suggest the use of computer aided diagnosis (CAD), increasing sensitivity to over 90% in detecting cancer in nondense breasts, however there are few published studies about detecting in dense breasts. To analyse its efficiency in relation to other segmentation techniques, we compare the performance with principal component analysis. To measure the quality of the segmentation obtained by the two methods, an area overlay measure will be used. To verify if there was any difference between the results of the proposed methods in the detection of lesions in nondense breasts and in dense breasts, a statistic test for two proportions was used. Experimental results on the Mini-MIAS and DDSM database showed an accuracy of 92.71% in detecting masses in nondense and 79.17% in dense breasts. All experiments showed that the ICA filters have a better performance for detect lesions in dense breast, compared with PCA. Contrary to previous works, our experiments showed that there is actually a significant difference between the detection of masses in dense and nondense breasts. This study can help specialist to detect lesions in dense breast.
