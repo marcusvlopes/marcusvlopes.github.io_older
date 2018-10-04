@@ -7,7 +7,6 @@ venue: ""
 date: 2012-01-01
 location: "São Luís, Brazil"
 ---
-Universidade Estadual do Maranhão, Departamento de Engenharia da Computação
 
 505	- Técnicas Digitais para Computação
 =======
